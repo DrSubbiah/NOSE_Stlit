@@ -42,3 +42,9 @@ If you use this app or its methodology in research or applied work, please cite:
 > *Classification of 2×2 sparse data sets with zero cells.*  
 > **Statistics & Probability Letters, 78(18), 3212–3215. Elsevier.**  
 > https://doi.org/10.1016/j.spl.2008.06.010
+
+## 🚀 Live Demo
+
+Try the app here:  
+👉 [Streamlit App](https://sparseness-2by2-nose-evftxdrqdnyv6qpyh4vdxfy2.streamlit.app/)
+
